@@ -1,11 +1,16 @@
 _repo: Kobiety-Women-A-Novel-of-Polish-Life_61618
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61618-h/images/cover.jpg
 creator:
   author:
     agent_name: Nalkowska, Zofia
     gutenberg_agent_id: '51525'
     url: http://www.gutenberg.org/2009/agents/51525
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61618#Kobiety-Women-A-Novel-of-Polish-Life
 gutenberg_issued: '2020-03-14'
 gutenberg_type: Text
 identifiers:
